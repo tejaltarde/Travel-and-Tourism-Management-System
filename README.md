@@ -68,7 +68,7 @@
 <hr style="border: 1px solid #3498db; width: 80%;">
 
 <p style="text-align: center; font-family: 'Open Sans', sans-serif; color: #2c3e50; font-size: 14px;">
-  © 2024 Anushka Rakshe - All rights reserved.
+  © 2024 Tejal Tarde - All rights reserved.
 </p>
 
 
