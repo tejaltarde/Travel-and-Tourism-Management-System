@@ -43,7 +43,7 @@
 <h2 style="color: #2980b9;">⚙️ Setup and Installation</h2>
 <ol style="font-family: 'Open Sans', sans-serif; color: #2c3e50;">
   <li><strong>Clone the Repository:</strong>
-    <pre style="background-color: #ecf0f1; padding: 10px; border-radius: 5px;">git clone https://github.com/Anushka082003/Travel-and-Toursim-Management-System.git</pre>
+    <pre style="background-color: #ecf0f1; padding: 10px; border-radius: 5px;">git clone https://github.com/tejaltarde/Travel-and-Toursim-Management-System.git</pre>
   </li>
   <li><strong>Import the Project:</strong> Import the project into your IDE (NetBeans/Eclipse).</li>
   <li><strong>Configure the Database:</strong> Update <code>Conn.java</code> with your database credentials and import the SQL schema.</li>
